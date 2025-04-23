@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,6 @@ vercel token = lrivujHllWoH9EnvcgcR9rLN
 o	Implement the AI functionality for document parsing
 o	Add smart features for auto-filling forms
 o	Create natural language search capabilities
+=======
+# property-management-webapp
+>>>>>>> 442bc0b7d2c6d0382248745b6effc5f5cc16bc8b
